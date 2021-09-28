@@ -1,2 +1,0 @@
-# jumpStart
-angular training
